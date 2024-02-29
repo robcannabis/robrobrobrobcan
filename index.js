@@ -12,8 +12,8 @@ const client = new Client({
 s.get('/',(req, res) =>  // Change 'app' to 's'
   res.send("Ready Dek"))
 
-s.listen(8080, () => { 
-  console.log("Port : 8080") 
+s.listen(4000, () => { 
+  console.log("Port : 4000") 
 })
 
 client.on('ready', async () => {
