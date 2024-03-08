@@ -33,13 +33,13 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1102239223681130516/1134009886443831306/khuntae_rob.gif?ex=65e95f01&is=65d6ea01&hm=d9a08babc8f3aea2f347271914692a785ea972d93b9f977632aa7e769e517284&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1065988274918797392/1215695340527943790/khuntae_rob.gif?ex=65fdaf83&is=65eb3a83&hm=78c91178bbfca019cc47a4d55999f762b70d4029e28501b655a8d241cdc7fd80&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
-    const change2 = ['@ RobShop','@ รับเติมไนโตร','@ Boost 165 ฿','@ Classic 75 ฿']; // ชื่อสลับ
+    const change2 = ['@ RobShop','@ รับเติมไนโตร','@ Boost 16O ฿','@ Classic 75 ฿']; // ชื่อสลับ
     const yyyt = ['꒰ ♯ chxxfs ♪ ꒱','꒰ ♯ babybigboy ♪ ꒱','꒰ ♯ cnxtown ♪ ꒱','꒰ ♯ maiyarap ♪ ꒱']; // ชื่อ button1
     const ddds = ['https://www.youtube.com/watch?v=Tmh_Ms8Yhgk','https://www.youtube.com/watch?v=UINIiEgtcz8','https://www.youtube.com/watch?v=VZXX0w7ij1I&t=80s','https://www.youtube.com/watch?t=10&v=BUD0m11eKMU&feature=youtu.be']; // ลิ้ง button1
 
-   const iooi = ['꒰ Join Server ꒱','꒰ RobShop ꒱','꒰ Boost 165 ฿ ꒱','꒰ Classic 75 ฿꒱']; // ชื่อ button 2
+   const iooi = ['꒰ Join Server ꒱','꒰ RobShop ꒱','꒰ Boost 16O ฿ ꒱','꒰ Classic 75 ฿꒱']; // ชื่อ button 2
    const iiio = ['https://discord.gg/n2YV89WksM','https://discord.gg/n2YV89WksM','https://discord.gg/n2YV89WksM','https://discord.gg/n2YV89WksM']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
