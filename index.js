@@ -33,7 +33,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1065988274918797392/1215695340527943790/khuntae_rob.gif?ex=6606ea03&is=65f47503&hm=44824674c6e31825411d8afb6f4acb8902ad2462d42e7ed426314b261ccdd25a&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1065988274918797392/1215695340527943790/khuntae_rob.gif?ex=66195f03&is=6606ea03&hm=87561347c8c4eb4274ea8ebd4f4b3948555e280dc59c655fdb0765f4db0e4b46&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = ['@ RobShop','@ รับเติมไนโตร','@ Boost 16O ฿','@ Classic 75 ฿']; // ชื่อสลับ
     const yyyt = ['꒰ ♯ chxxfs ♪ ꒱','꒰ ♯ babybigboy ♪ ꒱','꒰ ♯ cnxtown ♪ ꒱','꒰ ♯ maiyarap ♪ ꒱']; // ชื่อ button1
