@@ -34,7 +34,7 @@ client.on('ready', async () => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
     //const change = ['https://cdn.discordapp.com/attachments/1065988274918797392/1236146262743711815/khuntae_rob.gi']; //รูปใหญ่
-     const poop = ['https://cdn.discordapp.com/attachments/1065988274918797392/1236146262743711815/khuntae_rob.gi']; // รูปเล็ก
+     const poop = ['https://cdn.discordapp.com/attachments/1065988274918797392/1219593816382640238/vb111.gi']; // รูปเล็ก
     const change2 = ['@ RobShop','@ รับเติมไนโตร','@ Boost 16O ฿','@ Classic 75 ฿']; // ชื่อสลับ
     const yyyt = ['꒰ ♯ chxxfs ♪ ꒱','꒰ ♯ babybigboy ♪ ꒱','꒰ ♯ cnxtown ♪ ꒱','꒰ ♯ maiyarap ♪ ꒱']; // ชื่อ button1
     const ddds = ['https://www.youtube.com/watch?v=Tmh_Ms8Yhgk','https://www.youtube.com/watch?v=UINIiEgtcz8','https://www.youtube.com/watch?v=VZXX0w7ij1I&t=80s','https://www.youtube.com/watch?t=10&v=BUD0m11eKMU&feature=youtu.be']; // ลิ้ง button1
@@ -62,7 +62,7 @@ poop[Math.floor(Math.random()*poop.length)]; // รูปเล็ก
       .setAssetsSmallImage(`${popp}`) 
 //.setAssetsLargeImage(`${ssss}`)
 //.setAssetsLargeText(`꒰ ${getTime()} ꒱ ${moment().format('• ꒰ DD/MM/YYYY ꒱')}`)
-.setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
+//.setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
 .addButton(`${ioii}`,`${oooi}`)  
 
       .addButton(`${tyyy}`,`${sddd}`)
